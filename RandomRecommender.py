@@ -1,7 +1,5 @@
 from Recommender import Recommender
 
-'''Random Recommender'''
-
 
 class RandomRecommender(Recommender):
 
